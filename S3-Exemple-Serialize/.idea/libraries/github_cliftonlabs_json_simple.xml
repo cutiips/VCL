@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="github.cliftonlabs.json.simple" type="repository">
+    <properties include-transitive-deps="false" maven-id="com.github.cliftonlabs:json-simple:4.0.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/cliftonlabs/json-simple/4.0.1/json-simple-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/cliftonlabs/json-simple/4.0.1/json-simple-4.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
